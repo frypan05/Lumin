@@ -1,0 +1,10 @@
+id = "lumin"
+name = "Lumin"
+version = "0.0.1"
+schema_version = 1
+
+authors = ["Daksh Sharma"]
+
+
+description = "Peppermint flavored."
+repository = "https://github.com/frypan05/Lumin"
