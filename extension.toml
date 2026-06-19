@@ -1,10 +1,10 @@
-id = "lumin"
+id = "lumin-theme"
 name = "Lumin"
 version = "0.0.1"
 schema_version = 1
 
-authors = ["Daksh Sharma"]
+authors = ["Daksh Sharma <dakshsharma.tech>"]
 
 
-description = "Peppermint flavored."
+description = "Peppermint flavored theme; offspring of Vesper & Cursor."
 repository = "https://github.com/frypan05/Lumin"
