@@ -866,7 +866,6 @@
       "appearance": "light",
       "style": {
         "background.appearance": "blurred",
-
         "background": "#F5F5F5",
         "surface.background": "#FFFFFF",
         "elevated_surface.background": "#EFEFEF",
