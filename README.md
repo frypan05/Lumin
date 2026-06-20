@@ -28,7 +28,7 @@ Fork this repository
 ### 2. Clone your fork
 
 ```bash
-git clone https://github.com/<your-username>/Lumin.git
+git clone https://github.com/frypan05/Lumin.git
 ```
 
 ### 3. Install as a development extension
