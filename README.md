@@ -11,9 +11,16 @@ Lumin preserves the visual language of Vesper Blur: translucent surfaces, blur e
 * Dark minimal interface
 
 ## Preview
-
+### *Lumin Blur*
 <img width="1584" height="965" alt="2zed" src="https://github.com/user-attachments/assets/83d7c92b-faf5-4fe6-a934-9f5ae0c7a39e" />
 <img width="1662" height="966" alt="1zed" src="https://github.com/user-attachments/assets/8d706272-7f99-4430-9d2d-8a0ad41e3bc7" />
+
+### *Lumin Regular*
+<img width="1680" height="990" alt="zed3" src="https://github.com/user-attachments/assets/a7a074f3-0309-4322-84cc-d30ce59561d5" />
+
+### *Lumin Light*
+<img width="1710" height="964" alt="zed4" src="https://github.com/user-attachments/assets/f37b5c0d-55e0-400f-9d83-81cfdfcf2044" />
+
 
 ---
 
